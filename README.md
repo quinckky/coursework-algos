@@ -1,0 +1,2 @@
+# About
+Hand-crafted algorithms for finding extrema of convex problems (For safety, don't look at the code, it's soooooooo unclear. I only made it for course work and will never use it again, so there's no point in refactoring)
